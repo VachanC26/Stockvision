@@ -154,7 +154,7 @@ vercel
 
 ## 👨‍💻 Author
 
-Built by **[Vachan C]** as a major project demonstrating full-stack development with Next.js, real-time APIs, and financial data visualization.
+Built by **Vachan C** as a major project demonstrating full-stack development with Next.js, real-time APIs, and financial data visualization.
 
 ---
 
