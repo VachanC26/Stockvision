@@ -40,7 +40,7 @@ A full-stack stock market analysis platform built with **Next.js 14**, **TypeScr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/stockvision.git
+git clone https://github.com/VachanC26/stockvision.git
 cd stockvision
 ```
 
